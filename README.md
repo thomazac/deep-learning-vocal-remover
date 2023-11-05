@@ -15,6 +15,7 @@ Before running this application, please refer to `requirements.txt` for a list o
 cd your\dir\to\vocal-remover
 pip install -r requirements.txt
 ```
+4. Models must be downloaded separately and replaced in directory due to GitHub's downloading constraints
 
 ## Usage
 
