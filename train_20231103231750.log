@@ -1,0 +1,152 @@
+2023-11-03 23:17:50,661 - DEBUG - {'gpu': 0, 'seed': 2019, 'sr': 44100, 'hop_length': 1024, 'n_fft': 2048, 'dataset': 'F:\\BeatAI\\dataset', 'split_mode': 'random', 'learning_rate': 0.001, 'lr_min': 0.0001, 'lr_decay_factor': 0.9, 'lr_decay_patience': 6, 'batchsize': 4, 'accumulation_steps': 1, 'cropsize': 256, 'patches': 16, 'val_rate': 0.2, 'val_filelist': None, 'val_batchsize': 6, 'val_cropsize': 256, 'num_workers': 6, 'epoch': 200, 'reduction_rate': 0.5, 'reduction_level': 0.2, 'mixup_rate': 0.5, 'mixup_alpha': 1.0, 'pretrained_model': None, 'debug': False}
+2023-11-03 23:17:50,685 - INFO - 1 Post Malone - Over Now_part_4.wav Post Malone - Over Now_part_4.wav
+2023-11-03 23:17:50,685 - INFO - 2 Post Malone - Rockstar_part_0.wav Post Malone - Rockstar_part_0.wav
+2023-11-03 23:17:50,685 - INFO - 3 Post Malone - Take What You Want_part_2.wav Post Malone - Take What You Want_part_2.wav
+2023-11-03 23:17:50,686 - INFO - 4 Post Malone - Wow._part_1.wav Post Malone - Wow._part_1.wav
+2023-11-03 23:17:50,686 - INFO - 5 Post Malone - White Iverson_part_3.wav Post Malone - White Iverson_part_3.wav
+2023-11-03 23:17:50,686 - INFO - 6 Post Malone - Psycho_part_5.wav Post Malone - Psycho_part_5.wav
+2023-11-03 23:17:50,686 - INFO - 7 Post Malone - Paranoid_part_4.wav Post Malone - Paranoid_part_4.wav
+2023-11-03 23:17:50,686 - INFO - 8 Post Malone - Enemies_part_2.wav Post Malone - Enemies_part_2.wav
+2023-11-03 23:17:50,686 - INFO - 9 Post Malone - On The Road_part_0.wav Post Malone - On The Road_part_0.wav
+2023-11-03 23:17:50,687 - INFO - 10 Post Malone - Same Bitches_part_6.wav Post Malone - Same Bitches_part_6.wav
+2023-11-03 23:17:50,687 - INFO - 11 Post Malone - Circles_part_5.wav Post Malone - Circles_part_5.wav
+2023-11-03 23:17:50,687 - INFO - 12 Post Malone - Hollywood's Bleeding_part_2.wav Post Malone - Hollywood's Bleeding_part_2.wav
+2023-11-03 23:17:50,687 - INFO - 13 Post Malone - On The Road_part_2.wav Post Malone - On The Road_part_2.wav
+2023-11-03 23:17:50,687 - INFO - 14 Post Malone - Enemies_part_5.wav Post Malone - Enemies_part_5.wav
+2023-11-03 23:17:50,687 - INFO - 15 Post Malone - I Fall Apart_part_5.wav Post Malone - I Fall Apart_part_5.wav
+2023-11-03 23:17:50,687 - INFO - 16 Post Malone - On The Road_part_1.wav Post Malone - On The Road_part_1.wav
+2023-11-03 23:17:50,688 - INFO - 17 Post Malone - I'm Gonna Be_part_2.wav Post Malone - I'm Gonna Be_part_2.wav
+2023-11-03 23:17:50,688 - INFO - 18 Post Malone - Over Now_part_0.wav Post Malone - Over Now_part_0.wav
+2023-11-03 23:17:50,688 - INFO - 19 Post Malone - Otherside_part_4.wav Post Malone - Otherside_part_4.wav
+2023-11-03 23:17:50,688 - INFO - 20 Post Malone - Zack And Codeine_part_2.wav Post Malone - Zack And Codeine_part_2.wav
+2023-11-03 23:17:50,688 - INFO - 21 Post Malone - Hollywood's Bleeding_part_0.wav Post Malone - Hollywood's Bleeding_part_0.wav
+2023-11-03 23:17:50,688 - INFO - 22 Post Malone - Yours Truly, Austin Post_part_1.wav Post Malone - Yours Truly, Austin Post_part_1.wav
+2023-11-03 23:17:50,689 - INFO - 23 Post Malone - Wow._part_2.wav Post Malone - Wow._part_2.wav
+2023-11-03 23:17:50,689 - INFO - 24 Post Malone - A Thousand Bad Times_part_5.wav Post Malone - A Thousand Bad Times_part_5.wav
+2023-11-03 23:17:50,689 - INFO - 25 Post Malone - Over Now_part_1.wav Post Malone - Over Now_part_1.wav
+2023-11-03 23:17:50,689 - INFO - 26 Post Malone - Yours Truly, Austin Post_part_4.wav Post Malone - Yours Truly, Austin Post_part_4.wav
+2023-11-03 23:17:50,689 - INFO - 27 Post Malone - A Thousand Bad Times_part_4.wav Post Malone - A Thousand Bad Times_part_4.wav
+2023-11-03 23:17:50,689 - INFO - 28 Post Malone - Deja Vu_part_5.wav Post Malone - Deja Vu_part_5.wav
+2023-11-03 23:17:50,689 - INFO - 29 Post Malone - Hit This Hard_part_3.wav Post Malone - Hit This Hard_part_3.wav
+2023-11-03 23:17:50,690 - INFO - 30 Post Malone - Big Lie_part_5.wav Post Malone - Big Lie_part_5.wav
+2023-11-03 23:17:50,690 - INFO - 31 Post Malone - Same Bitches_part_5.wav Post Malone - Same Bitches_part_5.wav
+2023-11-03 23:17:50,690 - INFO - 32 Post Malone - Sugar Wraith_part_5.wav Post Malone - Sugar Wraith_part_5.wav
+2023-11-03 23:17:50,690 - INFO - 33 Post Malone - Myself_part_4.wav Post Malone - Myself_part_4.wav
+2023-11-03 23:17:50,690 - INFO - 34 Post Malone - Feel_part_4.wav Post Malone - Feel_part_4.wav
+2023-11-03 23:17:50,690 - INFO - 35 Post Malone - Deja Vu_part_0.wav Post Malone - Deja Vu_part_0.wav
+2023-11-03 23:17:50,690 - INFO - 36 Post Malone - Congratulations_part_6.wav Post Malone - Congratulations_part_6.wav
+2023-11-03 23:17:50,691 - INFO - 37 Post Malone - Too Young_part_0.wav Post Malone - Too Young_part_0.wav
+2023-11-03 23:17:50,691 - INFO - 38 Post Malone - Hollywood's Bleeding_part_4.wav Post Malone - Hollywood's Bleeding_part_4.wav
+2023-11-03 23:17:50,691 - INFO - 39 Post Malone - Money Made Me Do It_part_1.wav Post Malone - Money Made Me Do It_part_1.wav
+2023-11-03 23:17:50,691 - INFO - 40 Post Malone - Over Now_part_5.wav Post Malone - Over Now_part_5.wav
+2023-11-03 23:17:50,691 - INFO - 41 Post Malone - Psycho_part_2.wav Post Malone - Psycho_part_2.wav
+2023-11-03 23:17:50,691 - INFO - 42 Post Malone - Psycho_part_1.wav Post Malone - Psycho_part_1.wav
+2023-11-03 23:17:50,691 - INFO - 43 Post Malone - Better Now_part_2.wav Post Malone - Better Now_part_2.wav
+2023-11-03 23:17:50,691 - INFO - 44 Post Malone - Otherside_part_3.wav Post Malone - Otherside_part_3.wav
+2023-11-03 23:17:50,692 - INFO - 45 Post Malone - Candy Paint_part_2.wav Post Malone - Candy Paint_part_2.wav
+2023-11-03 23:17:50,692 - INFO - 46 Post Malone - Take What You Want_part_1.wav Post Malone - Take What You Want_part_1.wav
+2023-11-03 23:17:50,692 - INFO - 47 Post Malone - Spoil My Night_part_4.wav Post Malone - Spoil My Night_part_4.wav
+2023-11-03 23:17:50,692 - INFO - 48 Post Malone - I'm Gonna Be_part_5.wav Post Malone - I'm Gonna Be_part_5.wav
+2023-11-03 23:17:50,692 - INFO - 49 Post Malone - Spoil My Night_part_1.wav Post Malone - Spoil My Night_part_1.wav
+2023-11-03 23:17:50,692 - INFO - 50 Post Malone - No Option_part_0.wav Post Malone - No Option_part_0.wav
+2023-11-03 23:17:50,692 - INFO - 51 Post Malone - Otherside_part_1.wav Post Malone - Otherside_part_1.wav
+2023-11-03 23:17:50,692 - INFO - 52 Post Malone - Leave_part_0.wav Post Malone - Leave_part_0.wav
+2023-11-03 23:17:50,692 - INFO - 53 Post Malone - Internet_part_2.wav Post Malone - Internet_part_2.wav
+2023-11-03 23:17:50,693 - INFO - 54 Post Malone - Go Flex_part_0.wav Post Malone - Go Flex_part_0.wav
+2023-11-03 23:17:50,693 - INFO - 55 Post Malone - Up There_part_0.wav Post Malone - Up There_part_0.wav
+2023-11-03 23:17:50,693 - INFO - 56 Post Malone - Internet_part_1.wav Post Malone - Internet_part_1.wav
+2023-11-03 23:17:50,693 - INFO - 57 Post Malone - Feel_part_3.wav Post Malone - Feel_part_3.wav
+2023-11-03 23:19:08,589 - INFO - # epoch 0
+2023-11-04 00:04:42,247 - INFO -   * training loss = 0.001402, validation loss = 0.001217
+2023-11-04 00:04:42,248 - INFO -   * best validation loss
+2023-11-04 00:04:42,466 - INFO - # epoch 1
+2023-11-04 00:42:33,836 - INFO -   * training loss = 0.001254, validation loss = 0.001180
+2023-11-04 00:42:33,836 - INFO -   * best validation loss
+2023-11-04 00:42:33,958 - INFO - # epoch 2
+2023-11-04 01:21:12,113 - INFO -   * training loss = 0.001190, validation loss = 0.001089
+2023-11-04 01:21:12,113 - INFO -   * best validation loss
+2023-11-04 01:21:12,206 - INFO - # epoch 3
+2023-11-04 02:00:36,808 - INFO -   * training loss = 0.001149, validation loss = 0.001075
+2023-11-04 02:00:36,808 - INFO -   * best validation loss
+2023-11-04 02:00:36,937 - INFO - # epoch 4
+2023-11-04 02:40:08,614 - INFO -   * training loss = 0.001135, validation loss = 0.001048
+2023-11-04 02:40:08,614 - INFO -   * best validation loss
+2023-11-04 02:40:08,733 - INFO - # epoch 5
+2023-11-04 03:19:40,501 - INFO -   * training loss = 0.001118, validation loss = 0.001046
+2023-11-04 03:19:40,501 - INFO -   * best validation loss
+2023-11-04 03:19:40,604 - INFO - # epoch 6
+2023-11-04 03:59:06,122 - INFO -   * training loss = 0.001087, validation loss = 0.001017
+2023-11-04 03:59:06,123 - INFO -   * best validation loss
+2023-11-04 03:59:06,210 - INFO - # epoch 7
+2023-11-04 04:38:40,911 - INFO -   * training loss = 0.001079, validation loss = 0.001022
+2023-11-04 04:38:40,912 - INFO - # epoch 8
+2023-11-04 05:18:06,643 - INFO -   * training loss = 0.001063, validation loss = 0.001005
+2023-11-04 05:18:06,643 - INFO -   * best validation loss
+2023-11-04 05:18:06,730 - INFO - # epoch 9
+2023-11-04 05:57:36,345 - INFO -   * training loss = 0.001054, validation loss = 0.001024
+2023-11-04 05:57:36,346 - INFO - # epoch 10
+2023-11-04 06:37:15,952 - INFO -   * training loss = 0.001039, validation loss = 0.001012
+2023-11-04 06:37:15,953 - INFO - # epoch 11
+2023-11-04 07:16:47,667 - INFO -   * training loss = 0.001037, validation loss = 0.001004
+2023-11-04 07:16:47,667 - INFO -   * best validation loss
+2023-11-04 07:16:47,764 - INFO - # epoch 12
+2023-11-04 07:56:28,798 - INFO -   * training loss = 0.001033, validation loss = 0.000989
+2023-11-04 07:56:28,798 - INFO -   * best validation loss
+2023-11-04 07:56:28,885 - INFO - # epoch 13
+2023-11-04 08:36:00,609 - INFO -   * training loss = 0.001030, validation loss = 0.000990
+2023-11-04 08:36:00,609 - INFO - # epoch 14
+2023-11-04 09:15:35,900 - INFO -   * training loss = 0.001013, validation loss = 0.000977
+2023-11-04 09:15:35,900 - INFO -   * best validation loss
+2023-11-04 09:15:35,988 - INFO - # epoch 15
+2023-11-04 09:55:08,328 - INFO -   * training loss = 0.001004, validation loss = 0.000980
+2023-11-04 09:55:08,328 - INFO - # epoch 16
+2023-11-04 10:34:43,279 - INFO -   * training loss = 0.000998, validation loss = 0.000973
+2023-11-04 10:34:43,279 - INFO -   * best validation loss
+2023-11-04 10:34:43,367 - INFO - # epoch 17
+2023-11-04 11:14:24,823 - INFO -   * training loss = 0.001002, validation loss = 0.000971
+2023-11-04 11:14:24,823 - INFO -   * best validation loss
+2023-11-04 11:14:24,909 - INFO - # epoch 18
+2023-11-04 11:54:05,899 - INFO -   * training loss = 0.000985, validation loss = 0.000955
+2023-11-04 11:54:05,899 - INFO -   * best validation loss
+2023-11-04 11:54:06,001 - INFO - # epoch 19
+2023-11-04 12:34:00,768 - INFO -   * training loss = 0.000990, validation loss = 0.000957
+2023-11-04 12:34:00,769 - INFO - # epoch 20
+2023-11-04 13:17:07,500 - INFO -   * training loss = 0.000970, validation loss = 0.000952
+2023-11-04 13:17:07,500 - INFO -   * best validation loss
+2023-11-04 13:17:07,612 - INFO - # epoch 21
+2023-11-04 13:56:44,504 - INFO -   * training loss = 0.000977, validation loss = 0.000948
+2023-11-04 13:56:44,504 - INFO -   * best validation loss
+2023-11-04 13:56:44,599 - INFO - # epoch 22
+2023-11-04 14:36:24,061 - INFO -   * training loss = 0.000966, validation loss = 0.000943
+2023-11-04 14:36:24,061 - INFO -   * best validation loss
+2023-11-04 14:36:24,162 - INFO - # epoch 23
+2023-11-04 15:16:02,545 - INFO -   * training loss = 0.000959, validation loss = 0.000945
+2023-11-04 15:16:02,546 - INFO - # epoch 24
+2023-11-04 15:55:47,187 - INFO -   * training loss = 0.000949, validation loss = 0.000946
+2023-11-04 15:55:47,200 - INFO - # epoch 25
+2023-11-04 16:38:58,711 - INFO -   * training loss = 0.000957, validation loss = 0.000953
+2023-11-04 16:38:58,712 - INFO - # epoch 26
+2023-11-04 17:37:01,019 - INFO -   * training loss = 0.000959, validation loss = 0.000954
+2023-11-04 17:37:01,020 - INFO - # epoch 27
+2023-11-04 18:37:16,693 - INFO -   * training loss = 0.000952, validation loss = 0.000959
+2023-11-04 18:37:16,694 - INFO - # epoch 28
+2023-11-04 19:19:05,791 - INFO -   * training loss = 0.000949, validation loss = 0.000940
+2023-11-04 19:19:05,791 - INFO -   * best validation loss
+2023-11-04 19:19:05,967 - INFO - # epoch 29
+2023-11-04 19:58:40,427 - INFO -   * training loss = 0.000944, validation loss = 0.000945
+2023-11-04 19:58:40,428 - INFO - # epoch 30
+2023-11-04 20:38:10,544 - INFO -   * training loss = 0.000949, validation loss = 0.000940
+2023-11-04 20:38:10,545 - INFO - # epoch 31
+2023-11-04 21:17:45,406 - INFO -   * training loss = 0.000934, validation loss = 0.000959
+2023-11-04 21:17:45,406 - INFO - # epoch 32
+2023-11-04 21:57:20,126 - INFO -   * training loss = 0.000929, validation loss = 0.000940
+2023-11-04 21:57:20,184 - INFO - # epoch 33
+2023-11-04 22:40:47,771 - INFO -   * training loss = 0.000931, validation loss = 0.000933
+2023-11-04 22:40:47,771 - INFO -   * best validation loss
+2023-11-04 22:40:47,916 - INFO - # epoch 34
+2023-11-04 23:47:45,521 - INFO -   * training loss = 0.000924, validation loss = 0.000944
+2023-11-04 23:47:45,690 - INFO - # epoch 35
+2023-11-05 00:39:08,385 - INFO -   * training loss = 0.000927, validation loss = 0.000938
+2023-11-05 00:39:08,423 - INFO - # epoch 36
+2023-11-05 01:13:09,118 - INFO -   * training loss = 0.000929, validation loss = 0.000937
+2023-11-05 01:13:09,138 - INFO - # epoch 37
