@@ -52,6 +52,10 @@ Masks instrumental part based on the vocals volume to improve the separation qua
 
 Improves the performance of machine learning models on unseen data by applying various augmentations, like rotations or flips, to the test data. The model makes predictions on each augmented version of the data, and these predictions are then combined, often by averaging, to produce a final prediction. This often produces a better result.
 
+## Demonstration
+
+[![Demonstration](https://img.youtube.com/vi/q3MoDmhh2UE&ab_channel=thomazac/0.jpg)](https://www.youtube.com/watch?v=q3MoDmhh2UE&ab_channel=thomazac)
+
 ## References
 
 1. https://github.com/tsurumeso/vocal-remover
