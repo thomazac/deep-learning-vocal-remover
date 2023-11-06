@@ -55,4 +55,3 @@ Improves the performance of machine learning models on unseen data by applying v
 ## References
 
 1. https://github.com/tsurumeso/vocal-remover
-2. ChatGPT for various GUI elements and troubleshooting assistance
