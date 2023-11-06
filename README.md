@@ -54,7 +54,7 @@ Improves the performance of machine learning models on unseen data by applying v
 
 ## Demonstration
 
-[![Demonstration](https://img.youtube.com/vi/q3MoDmhh2UE&ab_channel=thomazac/0.jpg)](https://www.youtube.com/watch?v=q3MoDmhh2UE&ab_channel=thomazac)
+[![Demonstration](https://img.youtube.com/vi/q3MoDmhh2UE&ab/0.jpg)](https://www.youtube.com/watch?v=q3MoDmhh2UE&ab)
 
 ## References
 
