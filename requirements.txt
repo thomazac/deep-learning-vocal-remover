@@ -9,3 +9,4 @@ scikit-image
 argparse
 Pillow
 tkinter
+resampy
